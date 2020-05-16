@@ -43,7 +43,7 @@ $ gulp
 ```
 
 ### Please provide the following information:
-* OS & version: [e.g. MacOS Catalina 10.15.4]
+* OS & version [e.g. MacOS Catalina 10.15.4]:
 * node version (run `node -v`):
 * npm version (run `npm -v`):
 * gulp version (run `gulp -v`):
