@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📢 Community
+    url: https://github.com/gulpjs/gulp/discussions
+    about: Discussions are the best way to interact with the community and to get help!
