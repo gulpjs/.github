@@ -10,8 +10,8 @@ assignees: ''
 Before you open this issue, please complete the following tasks:
 
 * [ ] use the search bar at the top of the page to search this repository for similar issues or discussions that have already been opened.
-* [ ] if you are looking for help from the gulp team or community, open a [discussion]().
-* [ ] if you think there is a problem with the plugin you’re using, open a [discussion]().
+* [ ] if you are looking for help from the gulp team or community, open a [discussion](https://github.com/gulpjs/gulp/discussions).
+* [ ] if you think there is a problem with the plugin you’re using, open a [discussion](https://github.com/gulpjs/gulp/discussions).
 * [ ] if you think there is a bug in our code, open this issue.
 
 ## Our thoughts on feature requests
