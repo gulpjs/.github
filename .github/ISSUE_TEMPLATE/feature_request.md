@@ -1,5 +1,5 @@
 ---
-name: ":bulb: Feature request"
+name: "💡 Feature request"
 about: Got a great idea? Tell us here.
 title: ''
 labels: ''
